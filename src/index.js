@@ -1,4 +1,3 @@
-module.exports = function toReadable (number) {
   module.exports = function toReadable (num) {
   
     let oneToTen = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'];
@@ -28,4 +27,4 @@ module.exports = function toReadable (number) {
 
 // console.log(toReadable(802));
 
-}
+
